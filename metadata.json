@@ -1,0 +1,5 @@
+{
+  "name": "Matrix96: AI Grid Explorer",
+  "description": "An interactive 9x6 grid application powered by Gemini to generate creative patterns, data structures, and mosaic art.",
+  "requestFramePermissions": []
+}
